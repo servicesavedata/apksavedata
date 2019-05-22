@@ -2,7 +2,7 @@
 
 Repositorio del código de apk
 
-#objetivo
+# objetivo
 
 Servicio para la captura de facial , ocr y huellas digitales 
 
